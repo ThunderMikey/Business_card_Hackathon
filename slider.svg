@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="slider" transform="matrix(0.676849,0,0,0.984252,-232.159,-236.22)">
+        <path d="M692,291C692,262.852 658.769,240 617.837,240L417.163,240C376.231,240 343,262.852 343,291L343,393C343,421.148 376.231,444 417.163,444L617.837,444C658.769,444 692,421.148 692,393L692,291Z" style="fill:none;stroke:rgb(255,0,2);stroke-width:1.18px;"/>
+    </g>
+    <g id="arrow" transform="matrix(1.05882,0,0,2.44068,-64.6714,-215.674)">
+        <path d="M144,139.825L144,159L76,129.5L144,100L144,119.175L212,119.175L212,139.825L144,139.825Z"/>
+    </g>
+    <g transform="matrix(1,0,0,1.38889,0,-11.1111)">
+        <rect x="117" y="8" width="43" height="54"/>
+    </g>
+</svg>

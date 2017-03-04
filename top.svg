@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Body" transform="matrix(-1.23626,0,-0,1.35161,2262.35,-1144.82)">
+        <rect x="588" y="847" width="1242" height="568" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.64px;"/>
+    </g>
+    <g id="Display" transform="matrix(-2.39501,0,-0,1.32514,1805.71,-183.157)">
+        <rect x="246" y="263" width="360" height="205" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.43px;"/>
+    </g>
+    <g id="slide" transform="matrix(-1.20813,0,-0,0.990602,1581.39,17.3736)">
+        <rect x="302" y="519" width="743" height="155" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.75px;"/>
+    </g>
+    <g id="LEDleft" transform="matrix(-2.2426,0,-0,1.524,1859.11,-223.647)">
+        <rect x="197" y="356" width="79" height="62"/>
+    </g>
+    <g id="LEDright" transform="matrix(-2.2426,0,-0,1.524,772.501,-365.38)">
+        <rect x="197" y="356" width="79" height="62"/>
+    </g>
+    <g id="battery_circle" transform="matrix(-1.5925,0,-0,1.5925,2299.57,-248.031)">
+        <circle cx="1355" cy="445" r="89"/>
+    </g>
+    <path id="LED1_wire" d="M172,203L172,105" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    <path id="LED1_wire1" d="M1391,347L1391,105L172,105L91,105L91,388" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    <path id="slide_to_LED1" d="M173,244L173,293L294,293L294,457L737,457" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    <path id="slide_to_LED2" d="M1388,388L1388,457L737,457L737,526" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    <path id="slide_battery" d="M209,527L209,631L314,631" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    <path id="slide_top" d="M331,520L1199,520" style="fill:none;stroke:black;stroke-width:25px;"/>
+    <path id="slide_touch" d="M313,549L313,660" style="fill:none;stroke:black;stroke-width:25px;"/>
+</svg>

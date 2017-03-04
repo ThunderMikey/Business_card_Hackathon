@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Body" transform="matrix(1.23626,0,0,1.35161,-726.92,-1144.82)">
+        <rect x="588" y="847" width="1242" height="568" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.64px;"/>
+    </g>
+    <g id="Display" transform="matrix(2.52625,0,0,1.5556,-326.181,-267.39)">
+        <rect x="246" y="263" width="360" height="205" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.4px;"/>
+    </g>
+    <g id="LEDleft" transform="matrix(2.2426,0,0,1.524,-323.682,-223.647)">
+        <rect x="197" y="356" width="79" height="62" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.43px;"/>
+    </g>
+    <g id="LEDright" transform="matrix(2.2426,0,0,1.524,762.932,-365.38)">
+        <rect x="197" y="356" width="79" height="62" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.43px;"/>
+    </g>
+    <g id="battery_circle" transform="matrix(1.5925,0,0,1.5925,-764.133,-248.031)">
+        <circle cx="1355" cy="445" r="89" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.52px;"/>
+    </g>
+    <g id="battery_Lines">
+        <g id="down" transform="matrix(0.715336,0,0,1,437.392,104.63)">
+            <path d="M1336.87,497.732L1535,497.732" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.96px;"/>
+        </g>
+        <g id="up" transform="matrix(0.711744,0,0,1,442.195,-37.1024)">
+            <path d="M1336.87,356L1536,356" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.96px;"/>
+        </g>
+    </g>
+    <g id="slide" transform="matrix(1.27171,0,0,1.2954,-88.7814,-164.44)">
+        <rect x="302" y="519" width="743" height="155" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.65px;"/>
+    </g>
+</svg>
